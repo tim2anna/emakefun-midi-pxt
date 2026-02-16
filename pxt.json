@@ -1,0 +1,20 @@
+{
+    "name": "emakefun-midi-pxt",
+    "version": "1.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "emakefun_midi.ts",
+        "enums.d.ts",
+        "shims.d.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
